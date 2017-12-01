@@ -1,0 +1,6 @@
+c:\users\tavo\documents\visual studio 2015\Projects\PruebasDeRedimiento\PruebasDeRedimiento\bin\Debug\PruebasDeRedimiento.exe.config
+c:\users\tavo\documents\visual studio 2015\Projects\PruebasDeRedimiento\PruebasDeRedimiento\bin\Debug\PruebasDeRedimiento.exe
+c:\users\tavo\documents\visual studio 2015\Projects\PruebasDeRedimiento\PruebasDeRedimiento\bin\Debug\PruebasDeRedimiento.pdb
+c:\users\tavo\documents\visual studio 2015\Projects\PruebasDeRedimiento\PruebasDeRedimiento\obj\Debug\PruebasDeRedimiento.csprojResolveAssemblyReference.cache
+c:\users\tavo\documents\visual studio 2015\Projects\PruebasDeRedimiento\PruebasDeRedimiento\obj\Debug\PruebasDeRedimiento.exe
+c:\users\tavo\documents\visual studio 2015\Projects\PruebasDeRedimiento\PruebasDeRedimiento\obj\Debug\PruebasDeRedimiento.pdb
